@@ -34,3 +34,6 @@
   .flex-wrap{
     flex-wrap: wrap;
   }
+  .capitalize{
+    text-transform: capitalize;
+  }
